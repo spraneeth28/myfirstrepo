@@ -1,4 +1,4 @@
 # myfirstrepo
-my new repo
-praneeth shanigaram
-102 s frederick avenue
+my new repo 
+Praneeth Shanigaram.
+102 s frederick avenue,Maryville,Missouri.
